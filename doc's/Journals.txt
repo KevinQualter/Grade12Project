@@ -1,0 +1,141 @@
+kevin:
+
+
+
+
+dec 9
+cleaning up movement, solving import of old pakage issue
+
+dec 10 
+some issues with barriers at min and max X Co-ordinate. not sure why.
+
+dec 11
+rewrote the barrier code and it worked not sure why because i rewrote it 
+line by line, but it works and thats good enough for me.
+
+started looking at swiching the horizontal movement to the background image
+
+dec 12 presentation 
+
+
+dec 15 - 18
+
+added the attack function  
+
+dec 29 attack sound
+
+jan 2 background music
+
+jan 3 background music looping
+
+jan 4-9 clean up and creation of presentation
+
+final week watching presontations, and cleaning up code
+
+
+
+
+
+
+Miguel:
+
+
+
+
+
+2:27 PM 21/10/2014
+
+I found code on http://stackoverflow.com/questions/18777893/jframe-background-image to handle 
+a background image, while this helped me load an image to the background it was not in a way that we could use for
+our game but rather our menu.  
+
+2:19 PM 24/10/2014
+
+For the duration of this week so far I have been looking into layouts, this will help kill two birds with one stone
+as we can use a card layout to flip between a menu and then the game and a standard border layout for the actual
+game once we get it running. I am Keeping the JLabel code for an image in hopes of being able to implement this as
+a menu in a stable release.
+
+
+2:17 PM 28/10/2014
+
+Today is the day we submit our work in progress and for the duration of the day we were working on that.  For the 
+next WIP period these journals will hopefully be daily to journalize a more accurate order of events for this period
+
+
+1:02 AM 03/11/2014
+
+Worked on the menu screen today; experimenting with the card layout tomorrow to switch between the game screen and the menu.
+
+12:25 PM 10/11/2014
+
+Last week, I got a cardlayout working in which buttons would bring the end user to different panels when clicked. The
+Problem with this was the placement of the buttons.  To solve this issue I am experimenting with gridlayout to reach the 
+button placement desired.
+
+2:11 PM 13/11/2014
+
+This week I have been working on getting the cardlayout to work, combined to dealing with the frustration of being
+behind and being surpassed.  The cardlayout works, but the button is beside the image not on top of it.  Instead of
+the button being a breakthrough it has just been an extra headache.  My nesting may be to specific with each panel
+having its own class.
+
+1:04 PM 19/11/2014
+
+Throughout our projects life cycle so far, Team management has declined and we have not been working in unison.
+In addition to this, because some members need extra help with their code...  actually coding has not been at a 12U
+level.
+To fix this I have set up a plan of action:
+	Once a day, team will meet before,during or after class to discuss difficulties.
+	I will document the problems so that there is a clear objective for the next day.
+	Kevin and Ashton are now working side-by-side, as they were working on two very similar things.
+
+With this plan of action I hope to catch problems preemptively before they become a much grander problem.
+
+12:28 PM 25/11/2014
+
+We reset our frame size to a fixed position to avoid inconsistan
+
+
+
+
+ashton:
+
+
+
+
+22/10/2014
+-Cut out sprites, which I found out we don't need.
+
+23/10/2014
+-I made the life sprites today. But due to re assessment of their quality, I made another set
+
+24/10/2014
+-I made the text for our GUI.
+
+17/10/2014
+-I Made an image appear on the screen (Couldn't last year)
+
+18/10/2014
+-Made Pedo-Bear Sprite
+-Made Nick Cage Sprite
+
+29/10/2014
+-I started learning animation. The sprite sheet supposedly is separated in the program, 
+ But I am yet to figure out how to call on it.
+
+03/11/2014
+-Made Game over Screen
+
+04/11/2014
+-I rearranged my animation test.
+
+06/11/2014
+-Close to animation Working, but keep getting “java.lang.NullPointerException” on attempted add to pane
+
+13/11/2014
+-The team and I decided to change how we animate: we are now doing individual image loading rather than the sprite-sheet-style. I have a plan of how to do this, and am much relived because for the past 3 days I have been struggling to learn sprite sheets.
+
+14/11/2014
+“java.lang.NullPointerException” still blocks my adepts to draw an image
+
